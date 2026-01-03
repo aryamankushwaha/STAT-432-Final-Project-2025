@@ -2,7 +2,9 @@ Supervised Learning Approaches for Predicting Income from U.S. Census Data
 
 Authors: Aria Shetty (aria4), Camille Dolce (cdolc2), Aryaman Kushwaha (ak65)
 
-Supplementary code: STAT_432_Final_Project.Rmd
+[Technical Report](./US_Census_Income_Prediction_Report.pdf)
+
+[Supplementary Code](./STAT_432_Final_Project.Rmd)
 
 Each member made the following contributions:
 
