@@ -1,6 +1,6 @@
 Supervised Learning Approaches for Predicting Income from U.S. Census Data
 
-Authors: Aryaman Kushwaha (ak65), Camille Dolce (cdolc2), Aria Shetty (aria4)
+Authors: Aryaman Kushwaha, Camille Dolce, Aria Shetty
 
 [Technical Report](./US_Census_Income_Prediction_Report.pdf)
 
